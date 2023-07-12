@@ -65,5 +65,3 @@
       return Object.freeze(invalidTriangle);
     }
   }
-  
-  // Было не легко 
